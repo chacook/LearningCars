@@ -7,7 +7,7 @@ Generation 1: A variety of progress through the track. Peach colour cars have cr
 ![Image of Gen1](https://github.com/chacook/LearningCars/blob/master/img/gen1.png)
 
 
-Generation 2: Improved learning and increased convergence between members of the same generation.
+Generation 2: Improved learning and increased convergence between members of the same generation. Note the nearly stacked cars.
 
 ![Image of Gen2](https://github.com/chacook/LearningCars/blob/master/img/gen2.png)
 
