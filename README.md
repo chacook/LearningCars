@@ -7,12 +7,12 @@ Generation 1: a variety of progress through the track.
 ![Image of Gen1](https://github.com/chacook/LearningCars/blob/master/img/gen1.png)
 
 
-Generation 2: improved learning.
+Generation 2: improved learning and increased convergence.
 
 ![Image of Gen2](https://github.com/chacook/LearningCars/blob/master/img/gen2.png)
 
 
-Generation 3: all 10 cars completed the track.
+Generation 3: even more convergence and all 10 cars completed the track.
 
 ![Image of Gen3](https://github.com/chacook/LearningCars/blob/master/img/gen3.png)
 
@@ -22,7 +22,7 @@ Generation 6: the cars were given a track no previous generation had seen before
 ![Image of Gen6](https://github.com/chacook/LearningCars/blob/master/img/gen6.png)
 
 
-Generation 6: and all 10 cars completed the track.
+Generation 6: and all 10 cars completed the new track.
 
 ![Image of Gen6](https://github.com/chacook/LearningCars/blob/master/img/gen6-completed.png)
 
