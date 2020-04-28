@@ -27,6 +27,6 @@ Generation 6: and all 10 cars completed the new track.
 ![Image of Gen6](https://github.com/chacook/LearningCars/blob/master/img/gen6-completed.png)
 
 
-Generation 7: cars were given a 1/5 second delay between starting times.
+Generation 7: cars were given a 1/5th second delay between starting times.
 
 ![Image of Gen7](https://github.com/chacook/LearningCars/blob/master/img/gen7.png)
