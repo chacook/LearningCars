@@ -22,7 +22,7 @@ Generation 6: The cars were given a track no previous generation had seen before
 ![Image of Gen6](https://github.com/chacook/LearningCars/blob/master/img/gen6.png)
 
 
-Generation 6: And all 10 cars completed the new track.
+And all 10 cars completed the new track.
 
 ![Image of Gen6](https://github.com/chacook/LearningCars/blob/master/img/gen6-completed.png)
 
