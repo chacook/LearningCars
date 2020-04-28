@@ -1,5 +1,6 @@
 # LearningCars
-Cars learn to drive a track using a neural network along with a genetic algorithm
+## Cars learn to drive a track using a neural network along with a genetic algorithm
+
 
 Generation 1: a variety of progress through the track.
 
