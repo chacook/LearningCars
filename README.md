@@ -12,7 +12,7 @@ Generation 2: Improved learning and increased convergence between members of the
 ![Image of Gen2](https://github.com/chacook/LearningCars/blob/master/img/gen2.png)
 
 
-Generation 3: Even more convergence and all 10 cars completed the track.
+Generation 3: Even more convergence and all 10 cars in the generation completed the track.
 
 ![Image of Gen3](https://github.com/chacook/LearningCars/blob/master/img/gen3.png)
 
