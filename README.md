@@ -2,7 +2,7 @@
 ## Cars learn to drive a track using a neural network along with a genetic algorithm
 
 
-Generation 1: A variety of progress through the track. Peach colour cars have crashed, violet colour cars are still driving.
+Generation 1: A variety of progress through the track. Peach colour cars have crashed, violet colour cars are still driving. The starting tile is green and the end tile is red.
 
 ![Image of Gen1](https://github.com/chacook/LearningCars/blob/master/img/gen1.png)
 
